@@ -1,0 +1,10 @@
+flask
+flask_cors
+ultralytics
+opencv-python
+sentence-transformers
+chromadb
+groq
+together
+boto3
+dotenv
